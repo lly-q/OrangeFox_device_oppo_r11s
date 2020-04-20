@@ -1,4 +1,4 @@
-# OrangeFOX Recovery Device configuration for Sony Xperia X (suzu)
+# OrangeFOX Recovery Device configuration for R11s
 
 Copyright 2019 - The OmniROM Project
 
