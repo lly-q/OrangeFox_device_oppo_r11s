@@ -42,10 +42,10 @@ lunch omni_r11s-eng && mka recoveryimage
 
 Basic   | Spec Sheet
 -------:|:-------------------------
-CPU     | Kryo (4*2.2GHz+4*1.9GHz)
+CPU     | Kryo (2.2+1.8GHz)
 CHIPSET | Qualcomm sdm660 
-GPU     | Adreno 510
-Memory  | 3GB
+GPU     | Adreno 512
+Memory  | 4GB
 Shipped Android Version | 9.0 (Pie)
 Storage | 64GB
 Battery | 3205 mAh
